@@ -30,6 +30,6 @@ Hemos creado un código que se encarga de sumar todos los elementos del array _a
 
 # Ejercicio 4
 
-Ejecuta el script. Si has implementado bien el ejercicio anterior deberías ver por consola la media de 3 arrays diferentes.
+Ejecuta el script. Si has implementado bien el ejercicio anterior deberías ver por consola la media de 2 arrays diferentes.
 
 ![](https://oscarm.tinytake.com/media/16479f2?filename=1718275697636_TinyTake13-06-2024-12-48-15_638538724966796755.png&sub_type=thumbnail_preview&type=attachment&width=1192&height=129)

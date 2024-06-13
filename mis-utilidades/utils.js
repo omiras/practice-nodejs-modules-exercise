@@ -12,4 +12,5 @@ function getRandomElementFromArray(arr) {
     return arr[randomIndex];
 }
 
+
 module.exports.getRandomElementFromArray = getRandomElementFromArray;

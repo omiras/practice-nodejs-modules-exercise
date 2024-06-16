@@ -8,3 +8,7 @@ for (let i = 0; i < arr.length; i++) {
 total = sum / arr.length;
 
 console.log(total);
+
+
+
+console.log(getAvgFromArray([2, 4, 6]))
